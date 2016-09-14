@@ -1,0 +1,143 @@
+/*cabecera*/
+header{
+	background-color: #F5F4F4;
+	height: 140px;
+}
+
+.box-cabecera h4{
+	text-align: center;
+	font-size: 50px;
+	margin-top: 12px;
+	color:#1D5601;
+}
+
+.box-cabecera nav{
+	text-align: right;
+	position: relative;
+	margin-top: 37px;
+}
+
+.box-cabecera a{
+	text-decoration: none;
+	padding-right: 60px;
+	color:#909090;
+}
+
+.box-cabecera a:hover{
+	text-decoration: none;
+	padding-right: 60px;
+	color:#1D5601;
+}
+/*cuerpo*/
+.box-cuerpo .col-3 img{
+	width: 100%;
+	padding-top: 20px;
+}
+
+.box-cuerpo .col-4 img{
+	width: 100%;
+	padding-top: 20px;
+}
+
+.box-cuerpo .col-5 img{
+	width: 100%;
+	padding-top: 20px;
+}
+
+.box-cuerpo .rect-nombr{
+	background-color: #279D07;
+	color:#fff;
+	font-weight: bold;
+	padding-right: 7px;
+	padding-left: 7px;
+	position: absolute;
+	top:160px;
+	display: inline;
+}
+
+.box-cuerpo .rect-nombr-uno{
+	background-color: #279D07;
+	color:#fff;
+	font-weight: bold;
+	padding-right: 7px;
+	padding-left: 7px;
+	position: absolute;
+	top:160px;
+	display: inline;
+}
+
+.box-cuerpo .rect-nombr-dos{
+	background-color: #279D07;
+	color:#fff;
+	font-weight: bold;
+	padding-right: 7px;
+	padding-left: 7px;
+	position: absolute;
+	top:160px;
+	display: inline;
+}
+
+.box-cuerpo p{
+	margin-top: 20px;
+	text-align: justify;
+}
+
+.box-cuerpo .boton{
+	border: none;
+	background-color: #279D07;
+	padding-right: 7px;
+	padding-left: 7px;
+	margin-top: 5px;
+	float: right;
+	font-weight: bold;
+}
+
+.box-cuerpo .boton a{
+	text-decoration:none;
+	color:#000;
+}
+
+.box-cuerpo .col-5 .brasil{
+	width: 50%;
+	margin-top: 40px;
+	text-align: justify;
+}
+
+.box-cuerpo .boton-dentro{
+	border: none;
+	background-color: #279D07;
+	padding-right: 7px;
+	padding-left: 7px;
+	margin-top: 15px;
+	float: right;
+	font-weight: bold;
+}
+
+.box-cuerpo a{
+	border: none;
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;
+}
+
+.box-cuerpo .col-5 .brasil-uno{
+	width: 50%;
+	height: 200px;
+}
+
+.box-cuerpo .col-12 iframe{
+	width: 100%;
+	margin-top: 50px;
+} 
+/*pie*/
+.box-pie{
+	background-color: #F5F4F4;
+	height: 140px; 
+	margin-top: 20px;
+}
+
+.box-pie p{
+	text-align: center;
+	padding-top: 60px;
+	color:#909090;
+}
